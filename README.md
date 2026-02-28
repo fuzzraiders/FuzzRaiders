@@ -1,13 +1,5 @@
-```
-                                                                                                      
- ▄▄▄▄▄▄▄ ▄▄▄  ▄▄▄ ▄▄▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄▄▄   ▄▄▄▄▄▄▄     ▄▄▄▄   ▄▄▄▄▄ ▄▄▄▄▄▄    ▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄    ▄▄▄▄▄▄▄ 
-███▀▀▀▀▀ ███  ███ ▀▀▀▀▀████ ▀▀▀▀▀████   ███▀▀███▄ ▄██▀▀██▄  ███  ███▀▀██▄ ███▀▀▀▀▀ ███▀▀███▄ █████▀▀▀ 
-███▄▄    ███  ███    ▄███▀     ▄███▀    ███▄▄███▀ ███  ███  ███  ███  ███ ███▄▄    ███▄▄███▀  ▀████▄  
-███▀▀    ███▄▄███  ▄███▀     ▄███▀      ███▀▀██▄  ███▀▀███  ███  ███  ███ ███      ███▀▀██▄     ▀████ 
-███      ▀██████▀ █████████ █████████   ███  ▀███ ███  ███ ▄███▄ ██████▀  ▀███████ ███  ▀███ ███████▀ 
-                                                                                                      
+![cover](assets/badges/FuzzRaiders-badge.svg)
 
-```
 # 🐾 FuzzRaiders
 
 FuzzRaiders is a cybersecurity engineering team focused on high-quality research, tooling, and security innovation. We build open‑source security tools, contribute to the community, and explore modern challenges in offensive and defensive security.
@@ -18,12 +10,12 @@ FuzzRaiders is a cybersecurity engineering team focused on high-quality research
 
 We work across a broad range of security domains, including:
 
-- Web & Application Security  
-- Cloud & Infrastructure Security  
-- Reverse Engineering & Exploit Research  
-- Automation & Internal Tooling  
-- Security Engineering & Architecture  
-- Threat Analysis & Defensive Techniques  
+- Web & Application Security
+- Cloud & Infrastructure Security
+- Reverse Engineering & Exploit Research
+- Automation & Internal Tooling
+- Security Engineering & Architecture
+- Threat Analysis & Defensive Techniques
 
 Our public repositories include tools, scripts, write-ups, and research designed to support the security community.
 
@@ -49,9 +41,9 @@ All public repositories follow a consistent documentation standard.
 
 We welcome contributions through:
 
-- Pull Requests  
-- Issue Reports  
-- Feature Suggestions  
+- Pull Requests
+- Issue Reports
+- Feature Suggestions
 
 Please read each repository’s **CONTRIBUTING.md** and follow the guidelines.
 
@@ -65,9 +57,9 @@ Licensing varies by repository. Refer to the LICENSE file inside each project.
 
 ## 📬 Contact
 
-For collaboration or general inquiries, please use the contact information 
+For collaboration or general inquiries, please use the contact information
 fuzzraiders@gmail.com
 
 ---
 
-# 🐾 FuzzRaiders — Open Source for a Stronger Security Community
+🐾 FuzzRaiders — Open Source for a Stronger Security Community
