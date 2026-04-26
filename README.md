@@ -38,7 +38,7 @@ All public repositories follow a consistent documentation standard.
 ---
 ### 📊 FuzzRaiders Technical Stack
 <p align="left">
-  <img src="https://metrics.lecoq.io/fuzzraiders?template=classic&languages=1&languages.limit=8&languages.threshold=0%&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis_timeout=15&theme=vision-glow" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzzraiders&layout=compact&theme=tokyonight" />
 </p>
 
 ---
