@@ -38,7 +38,7 @@ All public repositories follow a consistent documentation standard.
 ---
 ### 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzzraiders&layout=compact&theme=vision-glow&hide=html,css&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fuzzraiders&show_icons=true&theme=vision-glow&count_private=true" />
 </p>
 
 ---
