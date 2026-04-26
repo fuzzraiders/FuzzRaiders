@@ -36,9 +36,9 @@ Typical categories you may find in this organization:
 All public repositories follow a consistent documentation standard.
 
 ---
-### 🛠️ Languages and Tools
+### 📊 FuzzRaiders Technical Stack
 <p align="left">
-  <img src="https://metrics.lecoq.io/fuzzraiders?base=languages&base.languages.limit=8&theme=vision-glow" alt="FuzzRaiders Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzzraiders&layout=compact&theme=vision-glow&langs_count=10&is_org=true&hide=svg" />
 </p>
 
 ---
