@@ -37,9 +37,7 @@ All public repositories follow a consistent documentation standard.
 
 ---
 ### 📊 FuzzRaiders Technical Stack
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzzraiders&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzzraiders&repo=REPO_NAME&layout=compact&theme=tokyonight" />
 
 ---
 
