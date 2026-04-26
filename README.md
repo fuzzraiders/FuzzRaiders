@@ -38,7 +38,7 @@ All public repositories follow a consistent documentation standard.
 ---
 ### 📊 FuzzRaiders Technical Stack
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzzraiders&layout=compact&theme=vision-glow&langs_count=10&is_org=true&hide=svg" />
+  <img src="https://metrics.lecoq.io/fuzzraiders?base=languages&base.languages.limit=8&theme=vision-glow" />
 </p>
 
 ---
@@ -69,3 +69,8 @@ fuzzraiders@gmail.com
 ---
 
 🐾 FuzzRaiders — Open Source for a Stronger Security Community
+
+### 📊 FuzzRaiders Technical Stack
+<p align="left">
+  <img src="https://metrics.lecoq.io/fuzzraiders?base=languages&base.languages.limit=8&theme=vision-glow" />
+</p>
