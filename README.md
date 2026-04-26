@@ -38,7 +38,7 @@ All public repositories follow a consistent documentation standard.
 ---
 ### 📊 FuzzRaiders Technical Stack
 <p align="left">
-  <img src="https://metrics.lecoq.io/fuzzraiders?base=languages&base.languages.limit=8&theme=vision-glow" />
+  <img src="https://metrics.lecoq.io/fuzzraiders?template=classic&languages=1&languages.limit=8&languages.threshold=0%&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis_timeout=15&theme=vision-glow" />
 </p>
 
 ---
@@ -71,6 +71,4 @@ fuzzraiders@gmail.com
 🐾 FuzzRaiders — Open Source for a Stronger Security Community
 
 ### 📊 FuzzRaiders Technical Stack
-<p align="left">
-  <img src="https://metrics.lecoq.io/fuzzraiders?base=languages&base.languages.limit=8&theme=vision-glow" />
-</p>
+<img src="https://metrics.lecoq.io/fuzzraiders?template=terminal&languages=1&languages.limit=6&languages.sections=most-used&languages.indepth=true&theme=vision-glow" />
