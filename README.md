@@ -69,6 +69,3 @@ fuzzraiders@gmail.com
 ---
 
 🐾 FuzzRaiders — Open Source for a Stronger Security Community
-
-### 📊 FuzzRaiders Technical Stack
-<img src="https://metrics.lecoq.io/fuzzraiders?template=terminal&languages=1&languages.limit=6&languages.sections=most-used&languages.indepth=true&theme=vision-glow" />
